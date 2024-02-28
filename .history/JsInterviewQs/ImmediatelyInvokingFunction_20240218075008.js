@@ -1,0 +1,1 @@
+//immediately invoke functions

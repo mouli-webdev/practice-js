@@ -1,0 +1,6 @@
+//Temporal dead zone:accessing variables  before its declaration throws a ReferenceError because it's in the Temporal Dead Zone.
+console.log(x); // undefined
+var x = 10;
+
+console.log(y); // ReferenceError: y is not defined
+let y = 20;

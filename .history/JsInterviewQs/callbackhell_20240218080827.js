@@ -1,0 +1,2 @@
+//Callbacks are commonly used in JavaScript, but they can lead to callback hell when dealing with multiple asynchronous operations or complex control flows. 
+To mitigate this, you can use techniques like Promises, async/await, or libraries like Async.js.
